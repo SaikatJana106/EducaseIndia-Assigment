@@ -6,7 +6,7 @@ const Profile = () => {
             <span className='py-5 block font-semibold bg-white'>Account Settings</span>
             <div className='border-b-2 border-dashed border-gray-900 space-y-2 p-5'>
                 <div className='flex gap-2'>
-                    <div className='h-15 w-15'>
+                    <div className='h-20 w-20'>
                         <img className='w-full h-full object-cover object-center rounded-full' src="/pic.jpg" alt="" />
 
                     </div>
